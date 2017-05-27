@@ -32,5 +32,11 @@ module.exports = {
         loaders: ["style-loader", "css-loader", "sass-loader"]
       }
     ]
-  }
+  },
+  plugins: [
+    new webpack.DllReferencePlugin({
+      context: __dirname,
+      manifest: require('./build/library/library.json')
+    })
+  ]
 };
