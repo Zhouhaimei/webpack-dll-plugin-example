@@ -38,9 +38,15 @@
     "webpack-dev-server": "^2.4.4"
   },
   "dependencies": {
+    "angular": "^1.6.4",
     "babel-loader": "^7.0.0",
+    "bootstrap": "^3.3.7",
+    "d3": "^4.9.1",
+    "highcharts": "^5.0.12",
+    "jquery": "^3.2.1",
     "react": "^15.5.4",
-    "react-dom": "^15.5.4"
+    "react-dom": "^15.5.4",
+    "redux": "^3.6.0"
   },
   "main": "server.js"
 }
