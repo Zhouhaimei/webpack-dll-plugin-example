@@ -1,14 +1,5 @@
-React Boilerplate
-=====================
-
-A minimal and light dev environment for ReactJS.
-
-### Usage
-
-Clone the boilerplate and create your own git repo.
-
-```
-git clone git@github.com:nolotz/react-simple-boilerplate.git
+# Simple DLL Plugin Example
+## From [blog](https://medium.com/@emilycoco/how-to-use-the-dll-plugin-to-speed-up-your-webpack-build-dbf330d3b13c)
 ```
 
 Install the dependencies and start the server.
